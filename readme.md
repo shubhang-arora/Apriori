@@ -1,8 +1,4 @@
 
-**AUTHOR** <br>
-   Shubhang Arora 1410110399
-   Sidharth Shanker Singh 1410110413
-   Ishan Singh 1410110163 
 
 **Name** <br>
     Apriori Algorithm Implementation in C++ with visualisation in
@@ -49,4 +45,8 @@
 
 
 
+**AUTHOR** <br>
+   Shubhang Arora 1410110399
+   Sidharth Shanker Singh 1410110413
+   Ishan Singh 1410110163 
 
